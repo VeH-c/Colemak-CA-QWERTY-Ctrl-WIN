@@ -14,7 +14,12 @@ Some things I'll like to see or am thinking about
 1. An [AHK](https://autohotkey.com/) version
 2. Maybe adding **ALT** to the Qwerrty mapping
 
- 
+<details>
+<summary> Common Qwerty Shortcut keys preserved </summary>
+CTRL Z(undo), CTRL Y(redo),CRTL C(Copy),CTRL V(Paste),CTRL S(Save),CTRL Q(Quit) CTRL ShIFT T(Opens a new Tab),CTRL N(New), CTRL R(relaod)
+CRTL P(Print)    
+More I missed....
+</details>
 
 <details>
 <summary> Credits & links </summary>
