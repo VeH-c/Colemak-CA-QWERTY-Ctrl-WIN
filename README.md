@@ -13,6 +13,16 @@ Made with [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/
 Some things I'll like to see or am thinking about
 1. An [AHK](https://autohotkey.com/) version
 2. Maybe adding **ALT** to the Qwerrty mapping
+3. A Linux & Mac version
+4. Making a how to just incase ??? desides to get rid of his gitgub
+5. Doing this for colemak & it's Mod's
+
+
+Seggested pirings 
+3. A way of either Shiftlocking or on AHK script that makes Shift + (CapsLock as backspace) toggle Capitalization 
+4. My Things that shows a toaste notifiacation when CAPlock or  Nuklock state is toggled TODO
+
+
 
 <details>
 <summary> Common Qwerty Shortcut keys preserved </summary>
@@ -20,6 +30,7 @@ CTRL Z(undo), CTRL Y(redo),CRTL C(Copy),CTRL V(Paste),CTRL S(Save),CTRL Q(Quit) 
 CRTL P(Print)    
 More I missed....
 </details>
+
 
 <details>
 <summary> Credits & links </summary>
