@@ -44,7 +44,7 @@ I needed to restart after these steps, for it to finally work, but YMMV.
 
 Some things I'll like to see or am thinking about   
 1. An [AHK](https://autohotkey.com/), Linux & Mac version  
-2. Adding **ALT** to the Qwerrty mapping (This is not simple, but someone with a good understaning of C might be able to hack MSKLC by modifing it's `kbd.h` file)   
+2. Adding **ALT** to the Qwerrty mapping (This is not simple, but someone with a good understaning of C might be able to [hack MSKLC by modifing it's `kbd.h` file](https://msklc-guide.github.io/))   
 5. Doing this for Vannila Colemak, & it's Mod's 
 
 
